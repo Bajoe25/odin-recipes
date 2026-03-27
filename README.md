@@ -1,2 +1,4 @@
 # odin-recipes
-"Odin Recipes"
+Odin Recipes
+
+This is a project that showcases my understanding of basic html synatx and usage.
